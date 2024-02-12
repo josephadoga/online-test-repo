@@ -10,15 +10,15 @@ Creating a GitHub Account and Repository
 -> Enter a username suitable for your account.
 
 3. Choose a GitHub product
--> Choose a plan, select a plan that suits you.
+-> Choose a plan, select a plan that best suits you.
 
 4. Verify your email address.
 -> After choosing your plan, GitHub will send a verification link to the email you provided when signing up.
 -> Open that email and click on the verification link to confirm/verify your account.
 
 5. Creating a Repository.
--> After logging in your GitHub account, on the dashboard page, locate a plus sign button at the top right side of the screen and Click it.
--> Select "New Repository", a new page opens on creating a new reposi
+-> After logging into your GitHub account, on the dashboard page, locate a plus sign button at the top right side of the screen and Click it.
+-> Select "New Repository", a new page opens on creating a new repository
 -> Locate where to add the Repository Name and put in a name that suits the purpose of the repository.
 -> Add a description (Optional).
 -> Select Public or Private to set the privacy status of the repository.
