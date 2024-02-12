@@ -2,11 +2,11 @@ Creating a GitHub Account and Repository
 
 1. Visit the GitHub Website:
 -> Open your Browser and go to "www.github.com"
--> On the page, Locate the "Sign Up" button and Click on it.
+-> On the page, Locate the "Sign Up" button and click on it.
 
 2. Enter your Account Details:
 -> Enter your Email.
--> Create a password(Suggestion: Strong Password).
+-> Create a password(Suggestion: create a strong password).
 -> Enter a username suitable for your account.
 
 3. Choose a GitHub product
