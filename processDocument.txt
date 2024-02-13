@@ -1,43 +1,31 @@
-Creating a GitHub Account and Repository
+CREATING A GITHUB ACCOUNT AND REPOSITORY
 
 The instructions below are a Step-by-Step Guide to Creating a GitHub Account and Setting Up Your First Repository.
 
-1. *Visit the GitHub Website:*
--> Open your Browser and go to "www.github.com"
--> On the page, Locate the "Sign Up" button and click on it.
+VISIT THE GITHUB WEBSITE:
+1. Open your Browser and go to "www.github.com"
+2. On the page, Locate the "Sign Up" button and click on it.
 
-2. Enter your Account Details:
--> Enter your Email.
--> Create a password(Suggestion: create a strong password).
--> Enter a username suitable for your account.
+ENTER YOUR ACCOUNT DETAILS:
+1. Enter your Email.
+2. Create a password(Suggestion: create a strong password).
+3. Enter a username suitable for your account.
 
-3. Choose a GitHub product:
--> Choose a plan, select a plan that best suits you.
+CHOOSE A GITHUB PRODUCT:
+1. Choose a plan, select a plan that best suits you.
 
-4. Verify your email address.
--> After choosing your plan, GitHub will send a verification link to the email you provided when signing up.
--> Open that email and click on the verification link to confirm/verify your account.
+VERIFY YOUR EMAIL ADDRESS:
+1. After choosing your plan, GitHub will send a verification link to the email you provided when signing up.
+2. Open that email and click on the verification link to confirm/verify your account.
 
-5. Creating a Repository:
--> After logging into your GitHub account, on the dashboard page, locate a plus sign button at the top right side of the screen and Click it.
--> Select "New Repository", a new page opens on creating a new repository
--> Locate where to add the Repository Name and put in a name that suits the purpose of the repository.
--> Add a description (Optional).
--> Select Public or Private to set the privacy status of the repository.
--> Initialize README file if needed.
--> Add .gitignore if needed.
--> Choose a license if needed.
--> Then click "Create repository".
+CREATING A REPOSITORY:
+1. After logging into your GitHub account, on the dashboard page, locate a plus sign button at the top right side of the screen and Click it.
+2. Select "New Repository", a new page opens on creating a new repository
+3. Locate where to add the Repository Name and put in a name that suits the purpose of the repository.
+4. Add a description (Optional).
+5. Select Public or Private to set the privacy status of the repository.
+6. Initialize README file if needed.
+7. Add .gitignore if needed.
+8. Choose a license if needed.
+9. Then click "Create repository".
 And there you have it, the repository is created.
-
-
-/*-----------------------------------------------------------------------
-
-Great work creating this process document.
-
-To improve further and make your document more comprehensive. I suggest the following;
-- Be clear and concise. Use visual aid in the form of screenshots to illustrate further.
-- Use numbered list to depict the order of your steps.
-- Include an introduction to your document.
-
--------------------------------------------------------------------------*/
