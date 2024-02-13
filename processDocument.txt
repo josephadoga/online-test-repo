@@ -27,3 +27,15 @@ Creating a GitHub Account and Repository
 -> Choose a license if needed.
 -> Then click "Create repository".
 And there you have it, the repository is created.
+
+
+/*-----------------------------------------------------------------------
+
+Great work creating this process document.
+
+To improve further and make your document more comprehensive. I suggest the following;
+- Be clear and concise. Use visual aid in the form of screenshots to illustrate further.
+- Use numbered list to depict the order of your steps.
+- Include an introduction to your document.
+
+-------------------------------------------------------------------------*/
